@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">iOS developer with 5 years of experience and a passion to learn news things in coding.</h3>
+<h3 align="center">iOS developer with 5 years of experience and a passion to learn new things in coding.</h3>
 
 - 🔭 I’m currently working on [MÁV app](https://apps.apple.com/hu/app/máv/id969467518)
 
