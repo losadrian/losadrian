@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">iOS developer with 5 years of experience and a passion to learn new things in coding.</h3>
 
-- 🔭 I’m currently working on [MÁV app](https://apps.apple.com/hu/app/máv/id969467518)
+- 🔭 I’m currently working on [MOL Move](https://apps.apple.com/hu/app/mol-move/id1572612950)
+
+- 🔭 I used to work on [MÁV app](https://apps.apple.com/hu/app/máv/id969467518)
 
 - 🌱 I’m currently learning **SmartHome (the python way), Mobile Security**
 
