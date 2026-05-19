@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">iOS developer with 5 years of experience and a passion to learn new things in coding.</h3>
+<h3 align="center">I have been an iOS developer since 2019 and I am passionate about learning new things, not just in coding.</h3>
 
-- 🔭 I’m currently working on [MOL Move](https://apps.apple.com/hu/app/mol-move/id1572612950)
+- 🔭 I’m currently working on [OTP Bank](https://apps.apple.com/hu/app/mol-move/id1403268557)
+
+- 🔭 I used to work on [MOL Move](https://apps.apple.com/hu/app/mol-move/id1572612950)
 
 - 🔭 I used to work on [MÁV app](https://apps.apple.com/hu/app/máv/id969467518)
 
 - 🌱 I’m currently learning **SmartHome (the python way), Mobile Security**
+
+- 📜 I successfully passed the TCM Security **Practical Mobile Pentest Associate (PMPA)** exam on February 22, 2026
 
 - 📫 You can reach me **adrian.lakatos.dev@icloud.com**
 
@@ -23,4 +27,4 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <h4 align="left">Tools and Others:</h4>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
